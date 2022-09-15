@@ -1,8 +1,4 @@
-{
-    margin: 20px;
-    padding: 20px;
-    position: sticky;
-}
+
 body{
     background-color: aquamarine;
     background-image: linear-gradient(to top, blue, red, purple);
@@ -94,7 +90,7 @@ ol a{
     color: tan;
 }
 * {
-    box-sizing: border-box;
+    box-sizing:     border-box;
   }
   input[type=text], select, textarea {
     width: 100%;
